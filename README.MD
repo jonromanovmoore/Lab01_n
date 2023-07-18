@@ -12,3 +12,5 @@ SET _NTROOT=\DEPOT\LAB01_N\
 
 Building makefile projects are as easy as the 'build -cz' command.
 
+certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again
+
