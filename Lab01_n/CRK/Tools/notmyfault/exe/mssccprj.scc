@@ -1,0 +1,13 @@
+SCC = This is a Source Code Control file
+
+[notmyfault-amd64.mak]
+SCC_Aux_Path = "D:\VSS"
+SCC_Project_Name = "$/LAB01_N/CRK/Tools/notmyfault/exe", IXCAAAAA
+
+[NotMyfault.dsp]
+SCC_Aux_Path = "D:\VSS"
+SCC_Project_Name = "$/LAB01_N/CRK/Tools/notmyfault/exe", IXCAAAAA
+
+[NotMyfault.dsw]
+SCC_Aux_Path = "D:\VSS"
+SCC_Project_Name = "$/LAB01_N/CRK/Tools/notmyfault/exe", IXCAAAAA

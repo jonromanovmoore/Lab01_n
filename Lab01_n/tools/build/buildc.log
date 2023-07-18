@@ -1,0 +1,10 @@
+BUILD: Compile and Link for rotor_x86
+BUILD: Computing Include file dependencies:
+BUILD: Examining d:\_ntroot\depot\lab05_n\sscli20\tools\build directory for files to compile.
+BUILD: d:\_ntroot\depot\lab05_n\sscli20\tools\build\build.h: d:\_ntroot\depot\lab05_n\sscli20\palrt\inc\safecrt.h: cannot find include file <errno.h>
+BUILD: d:\_ntroot\depot\lab05_n\sscli20\tools\build\build.h: d:\_ntroot\depot\lab05_n\sscli20\palrt\inc\safecrt.h: cannot find include file <mbctype.h>
+Linking d:\_ntroot\depot\lab05_n\sscli20\tools\build directory ********************
+'NMAKE.EXE -c BUILDMSG=Stop. LINKONLY=1 NOPASS0=1 NTTEST= UMTEST= BUILD_PHASE= ROTOR_X86=1'
+1>makefile(24) :  U1001: syntax error : illegal character '{' in macro
+1>Stop.
+BUILD: NMAKE.EXE -c BUILDMSG=Stop. LINKONLY=1 NOPASS0=1 NTTEST= UMTEST= BUILD_PHASE= ROTOR_X86=1 failed - rc = 2
